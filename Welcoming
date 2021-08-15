@@ -1,0 +1,3 @@
+#say welcome
+C = "welcome to this world dear Narges"
+print (C)
